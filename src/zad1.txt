@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+naprawiam bonflikt 639.
+=======
+Pracujemy na gałęzi developerskiej. Tu mamy wspólny kod.
+>>>>>>> d7db09a28801d3d197cec14fa3df180bd462a6dd
